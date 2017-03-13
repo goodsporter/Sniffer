@@ -1,0 +1,15 @@
+Device 1: 
+	Network adapter 'Realtek PCIe FE Family Controller' on local host
+	rpcap://\Device\NPF_{EB1EB318-A085-46CA-99EB-187B2E44E351}
+Device 2: 
+	Network adapter 'Microsoft' on local host
+	rpcap://\Device\NPF_{75AB3A3C-6215-42BF-947B-4A601A978621}
+Device 3: 
+	Network adapter 'Microsoft' on local host
+	rpcap://\Device\NPF_{FE0200BE-3D07-48DE-BF40-84DC6B455B60}
+Device 4: 
+	Network adapter 'TAP-Windows Adapter V9' on local host
+	rpcap://\Device\NPF_{965BF4F4-C32A-41EE-99B5-CFFFCDBE4AC6}
+Device 5: 
+	Network adapter 'Microsoft' on local host
+	rpcap://\Device\NPF_{314427B7-A2AC-4D8C-B176-2D33210E2836}
